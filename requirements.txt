@@ -4,4 +4,6 @@ matplotlib
 nltk
 sklearn
 scikit-learn
+tensorflow
+tensorflow_hub
 -e .
